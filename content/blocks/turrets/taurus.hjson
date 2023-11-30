@@ -54,4 +54,9 @@
     ]
     category: turret
     research: stream
+    consumes: {
+      coolant: {
+        amount: 0.2
+  }
+  }
 }
