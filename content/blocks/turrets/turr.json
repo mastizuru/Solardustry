@@ -18,11 +18,7 @@ requirements: [
   titanium/150
   ]
 "maxAmmo": 12,
-"consumes": {
-
-power: 16
-
-}
+"consumes": { "power": 16 }
 "ammoPerShot": 3,
 "targetAir": false,
 "targetGround": true,
