@@ -1,0 +1,48 @@
+{
+type: itemTurret
+name: Титановый чертила
+description: Ест титан, дает 3 луча по 40 урона. Выгодно
+health: 920
+size: 2
+targetAir: false
+shootSound: mineDeploy
+shoot: {
+  shots: 3
+  shotDelay: 4
+  }
+innacuracy: 10
+category: turret
+requirements: [
+  copper/250
+  silicon/50
+  titanium/150
+  ]
+"maxAmmo": 12,
+"ammoPerShot": 3,
+"targetAir": false,
+"targetGround": true,
+"shake": 0,
+"reload": 120,
+"range": 175,
+"shootCone": 1,
+"ammoUseEffect": "hitFuse",
+"shootSound": "shotgun",
+"inaccuracy": 0,
+"rotateSpeed": 2,
+"recoil": 4,
+"ammoTypes": {
+	"titanium": {
+		"type": "ShrapnelBulletType",
+		"length": 190,
+		"damage": 40,
+		"ammoMultiplier": 1,
+		"width": 4,
+	}
+},
+research: salvo
+consumes: {
+  coolant: {
+    amount: 1
+  }
+}
+}
