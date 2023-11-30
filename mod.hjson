@@ -1,10 +1,11 @@
 name: sd-json
 displayName: Solardustry!
 author: Mastizuru & Umieno
-subtitle: v0.0.1
+subtitle: v0.0.1 demo
 description: 
 '''
 A mod that adds many cool things! From drills to turrets.
-'''
-repo: Slotterleet/example-planet-json
+'''
+
+repo: mastizuru/Solardustry
 minGameVersion: 146
