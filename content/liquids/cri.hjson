@@ -1,8 +1,8 @@
-name: Охлаждающая жидкость 
+name: Lepeshka
 description: Криогенная жидкость но для честной игры
-color: 7ddffa
-barColor: 7ddffa
-lightColor:7ddffa
+color: dda13d
+barColor: dda13d
+lightColor: dda13d
 flammability: 0
 temperature: 0.10
 heatCapacity: 1000
