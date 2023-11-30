@@ -13,7 +13,7 @@
     alternate: true
     reloadTime: 50
 
-    inaccuracy: 15
+    inaccuracy: 10
     itemCapacity: 30
     maxAmmo: 30
 
