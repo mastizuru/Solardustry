@@ -9,10 +9,7 @@ shootSound: mineDeploy
 shoot: {
   shots: 3
   shotDelay: 4
-  }
-consumes: { 
-  power: 16 
-  }
+}
 innacuracy: 10
 category: turret
 requirements: [
