@@ -12,7 +12,11 @@
     shots: 1
     alternate: true
     reloadTime: 50
+    consumes: {
 
+power: 16
+
+}
     inaccuracy: 10
     itemCapacity: 30
     maxAmmo: 30
