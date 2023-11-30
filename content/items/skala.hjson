@@ -1,0 +1,12 @@
+name: Камень
+description: Камень.
+color: 6f6f6f
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+alwaysUnlocked: false
+cost: 2
+research: {
+  parent: rock
+  requirements: []
+}
